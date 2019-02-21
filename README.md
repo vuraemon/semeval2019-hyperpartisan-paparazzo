@@ -7,7 +7,7 @@ submitted by team `Paparazzo`:
 * Ngan Luu-Thuy Nguyen
 
 ## Requirements
-* Python 3.6
+* Python 3.6 (Anaconda)
 * Spacy version 2.0.16
 
 ## Preparation
