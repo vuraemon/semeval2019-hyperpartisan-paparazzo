@@ -11,7 +11,7 @@ submitted by team `Paparazzo`:
 * Spacy version 2.0.16
 
 ## Preparation
-* Download the model file (all four submissions of our team in one file):
+* Download model files (all four submissions of our team in one file):
   * https://drive.google.com/open?id=1-5ezqwpMRirvAwHnjkB8nu1dP0tYgGfe
 
 ## Testing
